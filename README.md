@@ -7,7 +7,7 @@
 
 ## Требования
 
-* AutoCAD 2020 (или выше)
+* AutoCAD 2015 (или выше)
 * Rhino 8 + Grasshopper
 * Rhino.Inside.AutoCAD (ядро подключено)
 
